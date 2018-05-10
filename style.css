@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+.title{
+  margin-top: -20px;
+  font-family: 'Pacifico'
+}
+.fa {
+  font-size: 50px;
+  font-weight: 500;
+  color: rgb(14, 54, 66);
+}
+
+.iconarea {
+  border: 2px solid rgb(192, 177, 177);
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  text-align: center;
+  line-height:100px;
+}
+.wrapper{
+  box-shadow: 0px 5px 13px black;
+  border-radius:15px;
+}
